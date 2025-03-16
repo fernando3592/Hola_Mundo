@@ -1,2 +1,2 @@
 # Hola Mundo
-EJERCICIOS DE **CLASE** con cambios **16 de marzo del 2025**
+EJERCICIOS DE **CLASE** con cambios del **16 de marzo del 2025**
